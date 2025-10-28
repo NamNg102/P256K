@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "P256K"
-  spec.version      = "1.2.1"
+  spec.version      = "1.0.1"
   spec.summary      = "A short description of QTSCardReader."
   spec.homepage     = "https://github.com/NamNg102/P256K"
   spec.author           = { 'My Name' => 'myemail@example.com' }
